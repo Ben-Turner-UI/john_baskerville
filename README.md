@@ -8,11 +8,10 @@ John Baskerville
 
 - **[Baskerville 3](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville3.html)**
 
-- **[Baskerville 4](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville3.html)**
-(Needs Link)
+- **[Baskerville 4](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville4.html)**
 
 - **[Baskerville 5](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville3.html)**
-(Needs Link also)
+(Needs Link also) (Confused about this, need to work it out)
 
 
 
@@ -23,6 +22,4 @@ History of Type
 
 - **[History of Type 2](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type2.html)**  
 
-
-- **[History of Type 3]|(   )
-(Needs Link)
+- **[History of Type 3]|(https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type3.html)**
