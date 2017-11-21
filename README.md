@@ -24,4 +24,5 @@ History of Type
 - **[History of Type 2](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type2.html)**  
 
 
-- History of Type 3…
+- **[History of Type 3]|(   )
+(Needs Link)
