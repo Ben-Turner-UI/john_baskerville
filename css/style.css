@@ -1,0 +1,204 @@
+/*- CSS RESET -*/
+
+
+* {
+    padding: ;
+    margin:0;
+    font-size:100%;
+    line-height: 1em;  
+}
+
+body{ 
+    
+    width: 50%;
+    margin: auto;
+    font-family: Georgia, 'times new roman' serif;
+    background: #f0f0f0
+    color: black;
+    line-height: 1.3em;
+}
+
+header{ 
+    margin: 6em 0;
+}
+
+header h2{
+    font-style: italic;
+    font-size; 2.25em;
+    color: #333;
+}
+
+
+h1, h2, h3 {
+    font-weight: normal;
+    text-align: center;
+    color: indianred;
+}
+
+p, li, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: .1em;
+}
+
+h2 { 
+    font-size: 2.25em;
+    margin-bottom: 1em;
+}
+
+
+/*- Links  -*/
+
+a{
+    
+color: indianred;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    border-bottom: 1px dotted;
+    color: purple;
+}
+
+/*- Navigation  -*/
+
+nav{
+    position: fixed;
+    top:0;
+    left: 0;
+    margin: 0;
+    width: 100%;   
+    background-color: black;
+    padding: 1em 0;
+}
+
+nav ul{
+    
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li {
+    
+display: inline;
+margin: 10px;
+}
+
+nav a:hover {
+    
+color: darkred;
+    text-decoration: none;
+    
+}
+
+/*- Quotes  -*/
+
+blockquote {
+    
+    
+    padding: 1em 0 2em 0;
+    font-size: 1.5em;
+    line-height: 1.4em
+    color: #777;
+}
+
+blockquote cite{
+    
+font-size: .75em;
+    
+}
+
+/*- IMAGES -*/
+
+img{
+    
+display: block;
+margin: 4em auto;
+padding: 0;
+max-width: 100%;
+    
+}
+
+/*- FOOTER -*/
+
+footer {
+text-align: center;
+font-size: .75em;
+line-height: 1.5em;
+padding-bottom: 2em;
+}
+
+footer
+
+
+/*- History of Type 4 -*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
