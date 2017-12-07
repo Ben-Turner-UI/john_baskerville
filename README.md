@@ -13,6 +13,12 @@ John Baskerville
 - **[Baskerville 5](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville3.html)**
 (Needs Link also) (Confused about this, need to work it out)
 
+- **[Baskerville 6](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville3.html)**
+(Needs Link also) (Confused about this, need to work it out)
+
+- **[Baskerville 7](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/baskerville3.html)**
+(Needs Link also) (Confused about this, need to work it out)
+
 
 
 

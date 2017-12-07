@@ -97,6 +97,7 @@ nav ul{
 }
 
 nav ul li {
+    
 display: inline;
 margin: 10px;
 }
@@ -148,42 +149,14 @@ padding-bottom: 2em;
 footer
 
 
-/*- TABLE -*/
-
-table{
-    margin: auto;
-    display: table;
-    border-collapse: collapse;
-    border-spacing: 2px;
-    margin-bottom: 2em;
-    background-color: grey;
-}
+/*- History of Type 4 -*/
 
 
 
-caption{
-    margin-bottom: 1em;
-    text-transform: uppercase;
-}
-
-th, td{
-    background-color: lightgrey;
-    padding: .6em;
-}
-
-th {
-    color: white;
-    background-color: indianred;
-    text-transform: uppercase;
-    text-align: left; 
-}
 
 
 
-table, td{
 
-    border: 1px solid white;
-}
 
 
 
