@@ -26,11 +26,11 @@ John Baskerville
 History of Type
 ---------------------
 
-- **[History of Type 1](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History%20of%20Type.html)**  
+- **[History of Type 1](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type.html)**  
 
 - **[History of Type 2](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type2.html)**  
 
-- **[History of Type 3]|(https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type3.html)**
+- **[History of Type 4](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type3.html)**
 
-- **[History of Type 4]|(https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type4.html)**
+- **[History of Type 4](https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type4.html)**
 
