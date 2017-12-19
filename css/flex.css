@@ -1,0 +1,50 @@
+article{
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: normal;
+  text-align: center;
+}
+
+article > * {
+    flex: 1 100%;
+    padding: 10px;
+}
+
+header{
+    color: white;
+    background-color: black;
+}
+
+.aside-1{
+    background-color: yellow;
+}
+
+.main{
+    color: white;
+    background-color: darkslategrey;
+    text-align: left;
+}
+
+.aside-2{
+    background-color: orange;
+}
+
+footer{
+    background-color: blue;
+}
+
+@media all and (min-width: 600px) {
+  .aside { flex: 1 auto; }
+}
+
+@media all and (min-width: 800px) {
+      .main    { flex: 3 10px; }
+      .aside-1 { order: 1; } 
+      .main    { order: 2; }
+      .aside-2 { order: 3; }
+      .footer  { order: 4}
+}
+
+body {
+  padding: 2em; 
+}

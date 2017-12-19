@@ -16,6 +16,7 @@ body{
     width: 50%;
     margin: auto;
     font-family: 'Libre Baskerville', serif;
+    font-weight: 300;
     background: #f0f0f0
     color: black;
     line-height: 1.3em;
@@ -39,7 +40,7 @@ mrseaves{
 }
 
 h1, h2, h3 {
-    font-weight: normal;
+    font-weight: ;
     text-align: center;
     color: indianred;
 }
@@ -51,15 +52,12 @@ p, li, blockquote {
 
 h1 {
     font-size: 4em;
-    margin-top: 1em;
-    margin-bottom: .1em;
-    line-height: 1.1em;
 }
 
 h2 { 
     font-size: 2.25em;
     margin-bottom: 0.5em;
-    margin-top: 1em;
+    margin-top: 0.5em;
 }
 
 
@@ -97,7 +95,6 @@ nav ul{
 }
 
 nav ul li {
-    
 display: inline;
 margin: 10px;
 }
@@ -149,14 +146,42 @@ padding-bottom: 2em;
 footer
 
 
-/*- History of Type 4 -*/
+/*- TABLE -*/
+
+table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    background-color: grey;
+}
 
 
 
+caption{
+    margin-bottom: 1em;
+    text-transform: uppercase;
+}
+
+th, td{
+    background-color: lightgrey;
+    padding: .6em;
+}
+
+th {
+    color: white;
+    background-color: indianred;
+    text-transform: uppercase;
+    text-align: left; 
+}
 
 
 
+table, td{
 
+    border: 1px solid white;
+}
 
 
 

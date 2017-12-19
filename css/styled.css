@@ -1,9 +1,5 @@
 /*- CSS RESET -*/
 
-
-
-
-
 * {
     padding: ;
     margin:0;
@@ -12,7 +8,6 @@
 }
 
 body{ 
-    
     width: 50%;
     margin: auto;
     font-family: 'Libre Baskerville', serif;
@@ -29,19 +24,19 @@ header h2{
     font-style: italic;
     font-size; 2.25em;
     color: #333;
+    line-height: 1.1em;
+    margin-top: .7em;
 }
 
 mrseaves{
     margin-top: 1em;
-    
 }
-
 
 
 h1, h2, h3 {
     font-weight: normal;
     text-align: center;
-    color: indianred;
+    color: darkred;
 }
 
 p, li, blockquote {
@@ -56,17 +51,11 @@ h1 {
     line-height: 1.1em;
 }
 
-.letterfounder h2{
-margin-top: -0.2em;
-}
-
 h2 { 
     font-size: 2.25em;
-    margin-bottom: 1em;
-    margin-top: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
 }
-
-
 
 
 /*- Links  -*/
@@ -114,7 +103,7 @@ color: darkred;
     
 }
 
-/*- Quotes  -*/
+/*- QUOTES  -*/
 
 blockquote {
     
@@ -151,8 +140,6 @@ line-height: 1.5em;
 padding-bottom: 2em;
 }
 
-footer
-
 
 /*- TABLE -*/
 
@@ -184,41 +171,121 @@ th {
     text-align: left; 
 }
 
-
-
 table, td{
-
     border: 1px solid white;
 }
 
 
 
+/*----------------------- MEDIA QUERY 1 -----------------------*/
 
+@media screen and (max-width: 750px) {
 
+    .baskervillemobile h1{
+        font-size: 2.5em;
+        padding-top: 1em
+    }
+    
+    
+    .letterfoundermobile{
+        font-size: 0.5em;
+        
+    }
+    
+    
+    p{
+        font-size: 0.9em;
+        padding-top: 1em;
+    }
+    
+    blockquote{
+        
+        font-size: 1.1em;
+    }
+    
+    
+    table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 10px;
+    margin-bottom: 2em;
+    background-color: grey;
+    
+}
+    
+    
+    
+th, td{
+    background-color: lightgrey;
+    font-size: 0.7em;
+}
+    
+    
+    
+th {
+    color: white;
+    background-color: indianred;
+    text-transform: uppercase;
+    text-align: left; 
+}
+    
+    
+body{ 
+    width: 75%;
+    margin: auto;
+    font-family: 'Libre Baskerville', serif;
+    background: #f0f0f0
+    color: black;
+    line-height: 1.3em;
+}
+    
+    
+    ul{
+        font-size: 0.7em;
+    }
+    
+    
+    
+}
 
+/*----------------------- MEDIA QUERY 2 -----------------------*/
 
+@media screen and (max-width: 900px) {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
 
 
 

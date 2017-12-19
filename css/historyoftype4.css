@@ -10,7 +10,6 @@
 }
 
 body{ 
-    
     width: 50%;
     margin: auto;
     font-family: Georgia, 'times new roman' serif;
@@ -29,9 +28,15 @@ header h2{
     color: #333;
 }
 
+li {
+    color: red;
+}
+
 ul li{
      line-height: .01em;
 }
+
+
 
 h1, h2, h3 {
     font-weight: normal;
@@ -54,9 +59,18 @@ h1 {
     padding-top: 2.5em;
 }
 
+
 h2 { 
     font-size: 2.25em;
     margin-bottom: 50px;
+}
+
+.nick h2{
+    padding-top: 40px;
+}
+
+.pioneer h2{
+    color: darkslategrey;
 }
     
 h3{
