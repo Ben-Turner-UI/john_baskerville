@@ -34,4 +34,3 @@ History of Type
 
 - **[History of Type 4]|(https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type4.html)**
 
-- **[History of Type 5]|(https://github.com/BenTurnerIxD/john_baskerville/blob/gh-pages/History_of_Type5.html)**
